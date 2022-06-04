@@ -1,0 +1,11 @@
+name: planet-amazon
+channels:
+  - defaults
+dependencies:
+  - python=3.6
+  - opencv
+  - pip
+  - pip:
+    - fastai
+    - jupyter
+
