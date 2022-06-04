@@ -1,7 +1,7 @@
 # Hackerearth_Satellite-image-analysis-of-forest
 
 
-###################3For running Deforestation web app
+## For running Deforestation web app
 Please install requirements:
 
 sudo python3 -m pip install -r requirements/requirements-gpu.txt
